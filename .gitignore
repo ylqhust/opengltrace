@@ -1,0 +1,15 @@
+.vs/
+*.dll
+*.exe
+*.pdb
+*.exp
+*.lib
+*.obj
+*.tlog
+*.log
+*.pch
+*.idb
+Debug/
+Release/
+*.vcxproj.user
+generate_*.h
